@@ -1,16 +1,15 @@
 ---
-title: "Project One"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 18 2022"
+title: "Splunk Distributed Lab (Docker)"
+summary: "Built a Docker-based Splunk distributed lab that simulates a production enterprise environment for hands-on learning, testing, and administration. The project demonstrates the deployment and integration of core Splunk components in a scalable distributed architecture."
+date: "Apr 25 2026"
 draft: false
 tags:
-- Astro
-- Javascript
-- Typescript
-- Tailwind
-- SolidJs
-demoUrl: https://astro-sphere-demo.vercel.app
-repoUrl: https://github.com/markhorn-dev/astro-sphere
+- Splunk
+- Docker
+- Homelab
+- Splunk Enterprise
+- Docker Compose
+repoUrl: https://github.com/michaelsayala/splunk-docker-labs
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Built a production-like Splunk distributed environment using Docker to simulate an enterprise deployment. The lab includes an Indexer Cluster, Search Head Cluster, Deployment Server, Heavy Forwarder, License Manager, Distributed Monitoring Console (DMC), and Universal Forwarders for hands-on learning, testing, and Splunk architecture validation.
