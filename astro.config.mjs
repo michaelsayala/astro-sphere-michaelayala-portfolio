@@ -6,7 +6,7 @@ import solidJs from "@astrojs/solid-js"
 
 export default defineConfig({
   site: "https://michaelsayala.com",
-  output: "static",
+
   integrations: [
     mdx(),
     //sitemap(),
