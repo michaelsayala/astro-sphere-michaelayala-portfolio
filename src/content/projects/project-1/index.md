@@ -1,7 +1,7 @@
 ---
 title: "Splunk Distributed Lab (Docker)"
 summary: "Built a Docker-based Splunk distributed lab that simulates a production enterprise environment for hands-on learning, testing, and administration. The project demonstrates the deployment and integration of core Splunk components in a scalable distributed architecture."
-date: "Apr 25 2026"
+date: "2026-04-25"
 draft: false
 tags:
 - Splunk

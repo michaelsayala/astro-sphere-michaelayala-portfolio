@@ -1,7 +1,7 @@
 ---
 title: "Building a Distributed Splunk Enterprise Lab with Docker"
 summary: "A production-inspired Splunk distributed environment built with Docker Compose for learning clustering, administration, and enterprise architecture."
-date: "Apr 25 2026"
+date: "2026-04-25"
 draft: false
 tags:
 - Splunk
